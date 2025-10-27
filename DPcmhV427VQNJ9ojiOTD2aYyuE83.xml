@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-                        
-                        
-<url>
-    <loc>https://notes.duckode.com/?user=duckode&amp;category=test&amp;categoryID=0</loc>
-    <lastmod>2025-10-27</lastmod>
-</url>
+    <url>
+        <loc>https://notes.duckode.com/?user=duckode&amp;category=Csharp&amp;categoryID=0</loc>
+    </url>
+    <url>
+        <loc>https://notes.duckode.com/?user=duckode&amp;category=Csharp&amp;categoryID=1</loc>
+    </url>
+    <url>
+        <loc>https://notes.duckode.com/?user=duckode&amp;category=Csharp&amp;categoryID=2</loc>
+    </url>
+    <url>
+        <loc>https://notes.duckode.com/?user=duckode&amp;category=JavaScript&amp;categoryID=0</loc>
+    </url>
+    <url>
+        <loc>https://notes.duckode.com/?user=duckode&amp;category=JavaScript&amp;categoryID=1</loc>
+    </url>
+    <url>
+        <loc>https://notes.duckode.com/?user=duckode&amp;category=PowerShell&amp;categoryID=0</loc>
+    </url>
+    <url>
+        <loc>https://notes.duckode.com/?user=duckode&amp;category=å¶ä»&amp;categoryID=0</loc>
+    </url>             
+    <url>
+        <loc>https://notes.duckode.com/?user=duckode&amp;category=test&amp;categoryID=0</loc>
+        <lastmod>2025-10-27</lastmod>
+    </url>
 </urlset>
